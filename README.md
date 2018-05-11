@@ -3,7 +3,7 @@
 # Article-Hello-World-Writing-Your-First-Swift-Program
 Hello World: Writing Your First Swift Program Article Resources
 
-This repository contains resources related to the [Hello World: Writing Your First Swift Program](https://www.woolseyworkshop.com/2018/05/10/hello-world-writing-your-first-swift-program) article published on [WoolseyWorkshop.com](https://www.woolseyworkshop.com).
+This repository contains resources related to the [Hello World: Writing Your First Swift Program](https://www.woolseyworkshop.com/2018/05/11/hello-world-writing-your-first-swift-program) article published on [WoolseyWorkshop.com](https://www.woolseyworkshop.com).
 
 ## HelloWorldXcode
 The [HelloWorldXcode](HelloWorldXcode) directory contains the Xcode project.
