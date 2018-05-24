@@ -1,7 +1,6 @@
 <img src="https://www.woolseyworkshop.com/wp-content/uploads/WWSLogoTitleLines.png" alt="Woolsey Workshop" height="70">
 
-# Article-Hello-World-Writing-Your-First-Swift-Program
-Hello World: Writing Your First Swift Program Article Resources
+# Hello World: Writing Your First Swift Program Article Resources
 
 This repository contains resources related to the [Hello World: Writing Your First Swift Program](https://www.woolseyworkshop.com/2018/05/11/hello-world-writing-your-first-swift-program) article published on [WoolseyWorkshop.com](https://www.woolseyworkshop.com).
 
