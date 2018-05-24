@@ -1,4 +1,4 @@
-<img src="https://www.woolseyworkshop.com/wp-content/uploads/WWSLogoTitleLines.png" alt="Woolsey Workshop" height="70">
+<a href="https://www.woolseyworkshop.com"><img src="https://www.woolseyworkshop.com/wp-content/uploads/WWSLogoTitleLines.png" alt="Woolsey Workshop" height="70"></a>
 
 # Hello World: Writing Your First Swift Program Article Resources
 
